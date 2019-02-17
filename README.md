@@ -1,13 +1,13 @@
 # Arduino cheatsheet
 
-**Software:**
+**Software:**<br />
 <br />
 <br />
 [Arduino IDE](https://www.arduino.cc/en/Main/Software)<br />
 <br />
 <br />
 ****
-**Hardware:**
+**Hardware:**<br />
 Arduino Mega 2560 Rev3<br />
 Vin 7-12V => 5V, 16MHz, 256kB Flash, 54 digital I/O / 16 analog / 20mA, 4 serial, ...<br />
 <br />
