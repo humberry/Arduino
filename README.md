@@ -26,3 +26,7 @@ You might want to use 12MHz@3.3V, because 16MHz@3.3V is not recommened for a ATm
 ****
 <br />
 Use all of these information at your own risk :)<br />
+
+
+External links disclaimer:<br>
+I'm not responsible for the content of external websites.<br>
